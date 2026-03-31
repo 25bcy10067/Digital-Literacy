@@ -120,7 +120,7 @@ Set up foundational professional profiles on:
 - **HackerRank** – Completed beginner-level challenge (*Solve Me First*)
 - **Google Forms** – Created a 5-question *Digital Literacy Awareness Quiz* for batchmates
 
-🔗 Google Form Quiz Link: *(https://docs.google.com/forms/d/e/1FAIpQLSeu-HREjXIhCb6efv6eZBSFh1mJx5jKom8CB21dwuzFK1RnxQ/viewform?usp=header)*
+🔗 Google Form Quiz Link: *(https://docs.google.com/forms/d/e/1FAIpQLSei0rkKpHwV7nafUfRvm4CiyCzJ8V26HlqWg0MLYz5ysx2NtQ/viewform?usp=publish-editor)*
 
 📎 [View Screenshots → task-3-platforms/](https://github.com/25bcy10067/Digital-Literacy/tree/bba06c0a4c82e58cc0ba3f946067cd7533c5fcb0/task-3-platforms)
 
